@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>illustration on Java Developer</title>
-    <link>http://myresumebucket077.s3-website.ap-south-1.amazonaws.com/categories/illustration/</link>
+    <link>http://staticsite077.s3-website.ap-south-1.amazonaws.com/categories/illustration/</link>
     <description>Recent content in illustration on Java Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://myresumebucket077.s3-website.ap-south-1.amazonaws.com/categories/illustration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://staticsite077.s3-website.ap-south-1.amazonaws.com/categories/illustration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artwork Design</title>
-      <link>http://myresumebucket077.s3-website.ap-south-1.amazonaws.com/portfolio/project-3/</link>
+      <link>http://staticsite077.s3-website.ap-south-1.amazonaws.com/portfolio/project-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://myresumebucket077.s3-website.ap-south-1.amazonaws.com/portfolio/project-3/</guid>
+      <guid>http://staticsite077.s3-website.ap-south-1.amazonaws.com/portfolio/project-3/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://myresumebucket077.s3-website.ap-south-1.amazonaws.com/portfolio/project-5/</link>
+      <link>http://staticsite077.s3-website.ap-south-1.amazonaws.com/portfolio/project-5/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://myresumebucket077.s3-website.ap-south-1.amazonaws.com/portfolio/project-5/</guid>
+      <guid>http://staticsite077.s3-website.ap-south-1.amazonaws.com/portfolio/project-5/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://myresumebucket077.s3-website.ap-south-1.amazonaws.com/portfolio/project-8/</link>
+      <link>http://staticsite077.s3-website.ap-south-1.amazonaws.com/portfolio/project-8/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://myresumebucket077.s3-website.ap-south-1.amazonaws.com/portfolio/project-8/</guid>
+      <guid>http://staticsite077.s3-website.ap-south-1.amazonaws.com/portfolio/project-8/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
